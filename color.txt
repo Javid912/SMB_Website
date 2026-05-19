@@ -1,0 +1,6 @@
+#	Name	Primary	Secondary	Feel
+1	Current — Phosphor	#c4ff3d lime	#6ee7ff cyan	Energetic, data-tech
+2	Electric Blue	#5b8cff	#7df9c6 mint	Trustworthy, SaaS-modern
+3	Amber Signal	#ffb547	#6ee7ff cyan	Premium, warm, confident
+4	Magenta Pulse	#ff4d8d	#8b7dff violet	Bold, creative, distinctive
+5	Cyber Violet	#a78bfa
